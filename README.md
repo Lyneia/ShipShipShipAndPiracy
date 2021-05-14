@@ -5,7 +5,7 @@ A Unity3D game made by Lyneia for those who enjoy Ships, Piracy, Low poly and bu
 
 The game doesn't have a goal for the moment, the idea will be to earn golds while sinking opponents (computer's ships) and upgrading your ship in towns. The game isn't finished yet and have a lot of bugs.
 
-![First Town](https://imgur.com/AX6LBVW)
+![First Town](./ShipShipShipAndPiracyReadmeFirstLook.png)
 
 ## Assets
 
